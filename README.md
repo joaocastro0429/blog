@@ -20,6 +20,10 @@ Antes de rodar o projeto, você precisa ter instalado:
 
 Siga os passos abaixo para configurar o projeto localmente:
 
+
+## Para adcionar novos post: 
+- acessa o admin do django para criar novos posts
+
 ### 1. Clone o Repositório
 
 Clone este repositório para o seu computador:
